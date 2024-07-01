@@ -1,0 +1,14 @@
+C:\Users\kmmartins\OneDrive - Stefanini\Área de Trabalho\c-curso\c#-curso\TextEditor\bin\Debug\net8.0\TextEditor.exe
+C:\Users\kmmartins\OneDrive - Stefanini\Área de Trabalho\c-curso\c#-curso\TextEditor\bin\Debug\net8.0\TextEditor.deps.json
+C:\Users\kmmartins\OneDrive - Stefanini\Área de Trabalho\c-curso\c#-curso\TextEditor\bin\Debug\net8.0\TextEditor.runtimeconfig.json
+C:\Users\kmmartins\OneDrive - Stefanini\Área de Trabalho\c-curso\c#-curso\TextEditor\bin\Debug\net8.0\TextEditor.dll
+C:\Users\kmmartins\OneDrive - Stefanini\Área de Trabalho\c-curso\c#-curso\TextEditor\bin\Debug\net8.0\TextEditor.pdb
+C:\Users\kmmartins\OneDrive - Stefanini\Área de Trabalho\c-curso\c#-curso\TextEditor\obj\Debug\net8.0\TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kmmartins\OneDrive - Stefanini\Área de Trabalho\c-curso\c#-curso\TextEditor\obj\Debug\net8.0\TextEditor.AssemblyInfoInputs.cache
+C:\Users\kmmartins\OneDrive - Stefanini\Área de Trabalho\c-curso\c#-curso\TextEditor\obj\Debug\net8.0\TextEditor.AssemblyInfo.cs
+C:\Users\kmmartins\OneDrive - Stefanini\Área de Trabalho\c-curso\c#-curso\TextEditor\obj\Debug\net8.0\TextEditor.csproj.CoreCompileInputs.cache
+C:\Users\kmmartins\OneDrive - Stefanini\Área de Trabalho\c-curso\c#-curso\TextEditor\obj\Debug\net8.0\TextEditor.dll
+C:\Users\kmmartins\OneDrive - Stefanini\Área de Trabalho\c-curso\c#-curso\TextEditor\obj\Debug\net8.0\refint\TextEditor.dll
+C:\Users\kmmartins\OneDrive - Stefanini\Área de Trabalho\c-curso\c#-curso\TextEditor\obj\Debug\net8.0\TextEditor.pdb
+C:\Users\kmmartins\OneDrive - Stefanini\Área de Trabalho\c-curso\c#-curso\TextEditor\obj\Debug\net8.0\TextEditor.genruntimeconfig.cache
+C:\Users\kmmartins\OneDrive - Stefanini\Área de Trabalho\c-curso\c#-curso\TextEditor\obj\Debug\net8.0\ref\TextEditor.dll

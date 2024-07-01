@@ -1,0 +1,14 @@
+/home/ketelyn/c#-curso/StopWatch/bin/Debug/net8.0/StopWatch
+/home/ketelyn/c#-curso/StopWatch/bin/Debug/net8.0/StopWatch.deps.json
+/home/ketelyn/c#-curso/StopWatch/bin/Debug/net8.0/StopWatch.runtimeconfig.json
+/home/ketelyn/c#-curso/StopWatch/bin/Debug/net8.0/StopWatch.dll
+/home/ketelyn/c#-curso/StopWatch/bin/Debug/net8.0/StopWatch.pdb
+/home/ketelyn/c#-curso/StopWatch/obj/Debug/net8.0/StopWatch.GeneratedMSBuildEditorConfig.editorconfig
+/home/ketelyn/c#-curso/StopWatch/obj/Debug/net8.0/StopWatch.AssemblyInfoInputs.cache
+/home/ketelyn/c#-curso/StopWatch/obj/Debug/net8.0/StopWatch.AssemblyInfo.cs
+/home/ketelyn/c#-curso/StopWatch/obj/Debug/net8.0/StopWatch.csproj.CoreCompileInputs.cache
+/home/ketelyn/c#-curso/StopWatch/obj/Debug/net8.0/StopWatch.dll
+/home/ketelyn/c#-curso/StopWatch/obj/Debug/net8.0/refint/StopWatch.dll
+/home/ketelyn/c#-curso/StopWatch/obj/Debug/net8.0/StopWatch.pdb
+/home/ketelyn/c#-curso/StopWatch/obj/Debug/net8.0/StopWatch.genruntimeconfig.cache
+/home/ketelyn/c#-curso/StopWatch/obj/Debug/net8.0/ref/StopWatch.dll
